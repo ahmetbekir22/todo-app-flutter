@@ -5,7 +5,7 @@ Todo app with flutter.In this version there is no database or an API.
 
 
 ```bash
-git clone https://github.com/ahmetbekir22/Todo-App-with-flutter-.git
+git clone https://github.com/ahmetbekir22/todo-app-flutter.git
 ```
 
 ## Usage
